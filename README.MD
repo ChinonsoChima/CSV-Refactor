@@ -1,2 +1,2 @@
-[![Coverage Status](https://coveralls.io/repos/github/kaw393939/is219hello/badge.svg?branch=master)](https://coveralls.io/github/kaw393939/is219hello?branch=master)
-[![Build Status](https://travis-ci.com/kaw393939/is219hello.svg?branch=master)](https://travis-ci.com/kaw393939/is219hello)
+[![Coverage Status](https://coveralls.io/repos/github/ChinonsoChima/CSV-Refactor/badge.svg?branch=master)](https://coveralls.io/github/ChinonsoChima/CSV-Refactor?branch=master)
+[![Build Status](https://travis-ci.com/ChinonsoChima/CSV-Refactor.svg?branch=master)](https://travis-ci.com/ChinonsoChima/CSV-Refactor)
